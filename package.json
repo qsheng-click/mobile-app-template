@@ -1,0 +1,8 @@
+{
+    "name": "mobile-app-template",
+    "version": "0.0.1",
+    "description": "React Native Template",
+    "repository": "git@github.com:qsheng-click/mobile-app-template.git",
+    "author": "Quan Sheng <qsheng@clicktherapeutics.com>",
+    "license": "MIT"
+  }
